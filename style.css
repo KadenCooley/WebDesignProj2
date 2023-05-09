@@ -87,9 +87,7 @@ nav ul li {
 
 body {
   color: #fff;
-  background-color: #943DFF;
   background-image: url("assets/page/stripes2.png");
-  background-blend-mode: multiply;
   background-size: 300%%;
   background-repeat: repeat;
 }
